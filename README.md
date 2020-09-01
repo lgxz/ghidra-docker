@@ -1,5 +1,5 @@
 # ghidra-docker
-Ghidra Contained
+Ghidra Contained (without network access, limit file access to a specified dir)
 
 ## Prepare
 Allow access to XServer:
