@@ -1,0 +1,2 @@
+# ghidra-docker
+Ghidra Contained
