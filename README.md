@@ -11,4 +11,5 @@ Prepare dir structures:
 3. mkdir root
 4. copy Ghidra to root/ghidra
 5. vim root/ghidra/ghidraRun, change "bg" to "fg"
+6. sudo ./run.sh
 
